@@ -24,6 +24,7 @@ Altien Port Tracker allows you to customize a schedule to scan a target and then
 Dependencies:
 
 -NMAP : Install with sudo apt-get install nmap
+
 -NDIFF : Install with sudo apt-get install ndiff
 -seashells : Install with sudo pip install seashells
 -msmtp : Use the following guide to install and configure msmtp https://jacmoe.dk/blog/2013/january/how-to-send-emails-with-msmtp-on-windows-or-linux-or-mac-os-x
