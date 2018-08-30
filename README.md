@@ -42,6 +42,8 @@ which nmap ndiff seashells crontab msmtp
 
 If dependencies are not installed, run the above commands. Be sure to run sudo apt-get update prior to installing.
 
+You may also choose to use the install_dependencies.sh script to quickly check and install if necessary.
+
 Once all dependencies are installed, place apt.sh and config.sh into a directory. Set scripts to be executable. APT requires root access to run and must be owned by the root user. Place images folder in a directory, open config.sh in a text editor to point to the images paths.
 
 Configuring:
